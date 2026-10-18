@@ -1,0 +1,6 @@
+{
+  "name": "Luxura Motors",
+  "description": "Luxura Motors is India's premier digital showroom for luxury, electric, and performance vehicles. Experience our inventory, compute premium financing, value your trade-in, book exclusive test drives, and schedule precision service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
